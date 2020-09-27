@@ -1,4 +1,4 @@
-<h1 align="center">Give me money!</h1>
+<h1 align="center">Give me your money please. Don't be a 馬鹿 (BAKA) ლ(́⚈人⚈‵ლ)</h1>
 
 - 👯 I’m looking to collaborate on **some interesting ideas**
 
