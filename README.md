@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Victor</h1>
-<h3 align="center">A passionate backend developer from Ukraine</h3>
+<h1 align="center">Give me money!</h1>
 
 - 👯 I’m looking to collaborate on **some interesting ideas**
 
